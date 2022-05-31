@@ -1,11 +1,9 @@
-## Hello 
-### I'm KyuHyun 👋
 
 ### MBTI : ESTJ 
 
+반갑습니다!
 
-빠르게 변화하는 시대에 맞는 유연한 사고, 모든 환경에 적응 할 수 있는 능력 을 갖추고 있으며 웃음 넘치는 분위기를 주도합니다. <br>
-소통, 책임감을 최우선적으로 생각하며, 생산성 있는 삶을 가장 큰 가치로 생각합니다.
+개발과 운동, 그리고 향을 좋아하는 좋아하는 프론트엔드 개발자 노규현입니다. 더 나은 삶의 질을 위해 문제를 찾고 해결하는 것, 오류를 만나 트러블 슈팅하는 것을 개발의 가장 큰 재미, 성장 포인트라고 생각합니다.
 <!-- 
 **rxxdo/rxxdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
